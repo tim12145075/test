@@ -12,3 +12,4 @@ do
 	fi
 done
 echo "後面還沒想出來"
+echo "123456"
